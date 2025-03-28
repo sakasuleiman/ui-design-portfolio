@@ -19,7 +19,7 @@ Our solution tackles the challenges faced by students who lack familiarity with 
 - **Accessibility Routes**: Step-free navigation and accessibility information
 
 ### Key Screens
-![Home Screen](screenshots/home-screen.png)
+![Home Screen](screenshots/home-screen.PNG)
 *The main dashboard with categorized campus resources and quick access to announcements*
 
 ![Study Spaces](screenshots/study-spaces.png)
