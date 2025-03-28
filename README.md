@@ -6,7 +6,7 @@ Campus Connect is a mobile application designed to address spatial inequality on
 Our solution tackles the challenges faced by students who lack familiarity with campus layouts, experience language barriers, or have limited support networks. By centralizing resource information and adding inclusive features, Campus Connect creates a more equitable campus experience for all students.
 
 ## Figma Project
-[View the complete interactive design in Figma](https://www.figma.com/file/your-figma-link)
+[View the complete interactive design in Figma]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/a0hFLb45hRCfez4QCAtylJ/Campus-Connect?node-id=1-113&p=f&t=it1mSjK4G7tD1ibj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A113)
 
 ## Design Highlights
 
