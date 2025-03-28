@@ -22,13 +22,13 @@ Our solution tackles the challenges faced by students who lack familiarity with 
 ![Home Screen](screenshots/home-screen.PNG)
 *The main dashboard with categorized campus resources and quick access to announcements*
 
-![Study Spaces](screenshots/screenshots/study-space.PNG)
+![Study Spaces](screenshots/study-space.PNG)
 *Real-time availability of study rooms in the library with filtering options*
 
 ![Events Calendar](screenshots/campus-events.PNG)
 *Campus events with RSVP functionality and calendar integration*
 
-![Language Selection](screenshots/screenshots/language-choice.PNG)
+![Language Selection](screenshots/language-choice.PNG)
 *Multilingual interface options for diverse student populations*
 
 
